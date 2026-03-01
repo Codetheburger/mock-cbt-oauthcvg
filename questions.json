@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "According to the International Continence Society, urinary incontinence is best defined as:",
+    "choices": [
+      "Any involuntary leakage of urine",
+      "Loss of urine associated with increased intra-abdominal pressure",
+      "Involuntary loss of urine that is a social or hygienic problem and objectively demonstrable",
+      "Continuous urinary leakage following childbirth"
+    ],
+    "answerIndex": 2,
+    "explanation": "The International Continence Society (ICS) traditionally defined urinary incontinence as the involuntary loss of urine that is objectively demonstrable and a social or hygienic problem[span_0](end_span)."
+  },
+  {
+    "id": 2,
+    "question": "A 42-year-old multiparous woman leaks urine when coughing and laughing. There is no urgency. Examination demonstrates leakage with a full bladder on coughing. What is the most likely diagnosis?",
+    "choices": [
+      "Urge urinary incontinence",
+      "Mixed urinary incontinence",
+      "Overflow incontinence",
+      "Stress urinary incontinence"
+    ],
+    "answerIndex": 3,
+    "explanation": "Leakage associated with activities that increase intra-abdominal pressure (coughing, laughing) in the absence of urgency is classic for Stress Urinary Incontinence (SUI)[span_1](end_span)[span_2](end_span)."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is the primary pathophysiological mechanism in stress urinary incontinence?",
+    "choices": [
+      "Detrusor overactivity",
+      "Impaired bladder compliance",
+      "Urethral hypermobility due to pelvic floor weakness",
+      "Increased bladder capacity"
+    ],
+    "answerIndex": 2,
+    "explanation": "SUI is primarily caused by urethral hypermobility resulting from a lack of support from the pelvic floor muscles and fascia, or intrinsic sphincter deficiency[span_3](end_span)."
+  },
+  {
+    "id": 4,
+    "question": "A 58-year-old postmenopausal woman presents with urgency, frequency, and urge leakage. Urodynamics confirms detrusor overactivity. Which of the following has the strongest evidence base for management?",
+    "choices": [
+      "Laser vaginal tightening",
+      "Bladder training and β3-agonist therapy",
+      "PRP injection",
+      "Clam ileocystoplasty"
+    ],
+    "answerIndex": 1,
+   "explanation": "First-line management for overactive bladder/urge incontinence includes lifestyle modification and bladder training, often combined with pharmacotherapy like β3-adrenoceptor agonists (e.g., Mirabegron)[span_4](end_span)."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following remains the gold standard surgical treatment for stress urinary incontinence?",
+    "choices": [
+      "Anterior colporrhaphy",
+      "Periurethral collagen injection",
+      "Sacral neuromodulation",
+      "Mid-urethral sling"
+    ],
+    "answerIndex": 3,
+    "explanation": "The mid-urethral sling (MUS) is considered the gold standard surgical intervention for SUI due to its high efficacy and minimally invasive nature[span_5](end_span)."
+  },
+  {
+    "id": 6,
+    "question": "A 70-year-old woman in a nursing home has continuous dribbling of urine and a palpable suprapubic mass. There is large post-void residual volume and absent detrusor activity. What is the diagnosis?",
+    "choices": [
+      "Stress incontinence",
+      "Urge incontinence",
+      "Overflow incontinence",
+      "Mixed incontinence"
+    ],
+    "answerIndex": 2,
+    "explanation": "Continuous dribbling associated with a palpable bladder (suprapubic mass) and high post-void residual volume indicates overflow incontinence, often due to detrusor underactivity[span_6](end_span)."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is included in the DIAPPERS mnemonic for reversible causes of urinary incontinence?",
+    "choices": [
+      "Diabetes mellitus",
+      "Delirium",
+      "Detrusor instability",
+      "Diverticulum"
+    ],
+    "answerIndex": 1,
+    "explanation": "In the DIAPPERS mnemonic, 'D' stands for Delirium, a common reversible cause of transient incontinence, especially in the elderly[span_7](end_span)."
+  },
+  {
+    "id": 8,
+    "question": "A woman with stress urinary incontinence is not fit for surgery and desires a minimally invasive option. Which is most appropriate?",
+    "choices": [
+      "Burch colposuspension",
+      "Autologous sling",
+      "Polyacrylamide hydrogel injection",
+      "Sacral neuromodulation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Urethral bulking agents like Polyacrylamide hydrogel injection provide a minimally invasive option for SUI when major surgery is contraindicated or not desired[span_8](end_span)."
+  },
+  {
+    "id": 9,
+    "question": "In pelvic floor ultrasound assessment of urinary incontinence, bladder neck descent during Valsalva suggests:",
+    "choices": [
+      "Detrusor overactivity",
+      "Urethral obstruction",
+      "Urethral incompetence",
+      "Neurogenic bladder"
+    ],
+    "answerIndex": 2,
+    "explanation": "Excessive bladder neck descent during a Valsalva maneuver on ultrasound is indicative of urethral hypermobility/incompetence, supporting a diagnosis of SUI[span_9](end_span)."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following statements regarding management of NFUI in low-resource settings is MOST appropriate?",
+    "choices": [
+      "Laser therapy should be first-line",
+      "Artificial sphincter is preferred for most patients",
+      "Conservative therapy should precede surgery",
+      "All patients require urodynamic testing before treatment"
+    ],
+    "answerIndex": 2,
+    "explanation": "In low-resource settings, conservative management (pelvic floor exercises, lifestyle changes) is recommended before proceeding to more expensive or invasive surgical interventions[span_10](end_span)."
+  },
+  {
+    "id": 11,
+    "question": "A 26-year-old G2P1 at 10 weeks’ gestation is found to be Rh-negative at booking. Her antibody screen is negative. Her husband is Rh-positive. What is the most appropriate next step in management?",
+    "choices": [
+      "Begin monthly MCA Doppler surveillance",
+      "Administer Anti-D immediately",
+      "Determine fetal Rh status using cell-free fetal DNA",
+      "Perform amniocentesis for fetal Rh typing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Non-invasive prenatal testing (NIPT) using cell-free fetal DNA is a modern approach to determine fetal Rh status in an Rh-negative mother to guide management[span_11](end_span)."
+  },
+  {
+    "id": 12,
+    "question": "What is the minimum volume of Rh-positive fetal blood capable of causing sensitization in an Rh-negative mother?",
+    "choices": [
+      "5 mL",
+      "1 mL",
+      "0.5 mL",
+      "0.1 mL"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sensitization can occur with as little as 0.1 mL of Rh-positive fetal blood entering the maternal circulation[span_12](end_span)."
+  },
+  {
+    "id": 13,
+    "question": "A sensitized Rh-negative pregnant woman with no previous history of an affected fetus has an anti-D titre of 1:8 at 28 weeks. What is the appropriate management?",
+    "choices": [
+      "Immediate delivery",
+      "Intrauterine transfusion",
+      "Repeat antibody titre monthly",
+      "Start MCA Doppler immediately"
+    ],
+    "answerIndex": 2,
+    "explanation": "For a sensitized patient with a low/stable titre (usually < 1:16 or 1:32 depending on the lab), monitoring with serial antibody titres is standard until a critical threshold is reached[span_13](end_span)."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is the most accurate non-invasive method for detecting moderate to severe fetal anemia in Rh alloimmunization?",
+    "choices": [
+      "Liley chart",
+      "Kleihauer-Betke test",
+      "Cardiotocography",
+      "Middle cerebral artery peak systolic velocity (MCA-PSV)"
+    ],
+    "answerIndex": 3,
+    "explanation": "MCA-PSV is the current gold standard non-invasive tool for detecting fetal anemia, as blood flow velocity increases as blood viscosity decreases with anemia[span_14](end_span)."
+  },
+  {
+    "id": 15,
+    "question": "MCA Doppler assessment shows a peak systolic velocity of 1.6 multiples of the median (MoM) at 30 weeks. What does this indicate?",
+    "choices": [
+      "Normal fetus",
+      "Mild anemia",
+      "Moderate anemia",
+      "Severe anemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "An MCA-PSV value greater than 1.5 MoM is highly suggestive of severe fetal anemia, necessitating intervention such as fetal blood sampling or transfusion[span_15](end_span)."
+  },
+  {
+    "id": 16,
+    "question": "The appropriate blood product for intrauterine transfusion in Rh alloimmunization is:",
+    "choices": [
+      "Fresh whole blood, Rh-positive",
+      "O RhD-positive packed cells",
+      "O RhD-negative packed red cells with HCT 80–90%",
+      "Maternal blood cross-matched only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intrauterine transfusion requires O RhD-negative, CMV-negative, irradiated, and tightly packed (HCT 75-85%) red cells to maximize oxygen-carrying capacity without fluid overload[span_16](end_span)."
+  },
+  {
+    "id": 17,
+    "question": "In an unsensitized Rh-negative woman, routine antenatal Anti-D prophylaxis (RAADP) is administered at:",
+    "choices": [
+      "20 weeks",
+      "24 weeks",
+      "28 weeks",
+      "32 weeks"
+    ],
+    "answerIndex": 2,
+    "explanation": "Standard practice for RAADP is a dose given at 28 weeks gestation (or two doses at 28 and 34 weeks)[span_17](end_span)."
+  },
+  {
+    "id": 18,
+    "question": "A Kleihauer-Betke test estimates 2% fetal red cells in maternal circulation after delivery. What is the estimated volume of fetomaternal hemorrhage (FMH)?",
+    "choices": [
+      "10 mL",
+      "50 mL",
+      "100 mL",
+      "150 mL"
+    ],
+    "answerIndex": 2,
+    "explanation": "The estimated FMH volume (mL) = (% fetal cells) x 50. Thus, 2% x 50 = 100 mL[span_18](end_span)."
+  },
+  {
+    "id": 19,
+    "question": "Why is Anti-D immunoglobulin administered within 72 hours postpartum?",
+    "choices": [
+      "To destroy fetal RBCs in neonate",
+      "To prevent maternal IgM production",
+      "To bind fetal D antigens and prevent maternal immune recognition",
+      "To reverse established sensitization"
+    ],
+    "answerIndex": 2,
+    "explanation": "Anti-D binds to Rh-positive fetal RBCs in the maternal circulation, facilitating their clearance before the maternal immune system can recognize them and mount an immune response[span_19](end_span)."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following statements about amniotic fluid spectrophotometry is correct?",
+    "choices": [
+      "It is superior to MCA Doppler in detecting severe anemia",
+      "It is the first-line screening tool in modern practice",
+      "It is obsolete and never used",
+      "It is now a second-line tool when Doppler findings are ambiguous"
+    ],
+    "answerIndex": 3,
+    "explanation": "Amniotic fluid spectrophotometry (Liley's or Queenan's charts) has largely been replaced by MCA Doppler but may still be used if Doppler is unavailable or results are unclear[span_20](end_span)."
+  },
+  {
+    "id": 21,
+    "question": "For outlet forceps, which of this is false",
+    "choices": [
+      "(a) Scalp will be at introitus separating labia",
+      "(b) Skull at the pelvic floor",
+      "(c) Sagittal suture in anterior-posterior diameter or right occiput anterior, left occiput anterior, or occiput anterior position",
+      "(d) Fetal head on the perineum"
+    ],
+    "answerIndex": 0,
+    "explanation": "In outlet forceps, the scalp is visible at the introitus without separating the labia[span_21](end_span)."
+  },
+  {
+    "id": 22,
+    "question": "For outlet forceps, which of this is true",
+    "choices": [
+      "(a) Rotation is less than 45 degrees",
+      "(b) Skull greater than +2 station",
+      "(c) Without rotation: Rotation less than 45 degrees (ie, rotating from right or left occiput anterior to occiput anterior, or from right or left occiput posterior to occiput posterior)",
+      "(d) With rotation: Rotation greater than 45 degrees"
+    ],
+    "answerIndex": 0,
+    "explanation": "Outlet forceps application requires that rotation does not exceed 45 degrees[span_22](end_span)."
+  },
+  {
+    "id": 23,
+    "question": "For vacuum delivery, which is not true",
+    "choices": [
+      "(a) Always use as large a diameter as possible to reduce the risk of soft tissue injury.",
+      "(b) The 40 mm cup is only used for delivering the second twin.",
+      "(c) The 50 mm cup is more difficult to manipulate than the 60mm cup",
+      "(d) The edge of a 60 mm cup will be 30 mm behind the anterior fontanelle in the midline over the sagittal"
+    ],
+    "answerIndex": 2,
+    "explanation": "A smaller cup (50 mm) is generally easier to manipulate than a larger one (60 mm) when space is limited[span_23](end_span)."
+  },
+  {
+    "id": 24,
+    "question": "Vacuum Traction Rules, which is not applicable",
+    "choices": [
+      "(a) Avoid rocking;",
+      "(b) limit to 20-30 minutes.",
+      "(c) Max 4 pulls;",
+      "(d) traction perpendicular to cup."
+    ],
+    "answerIndex": 2,
+    "explanation": "Standard practice usually limits vacuum attempts to 3 pulls; [span_24](start_span)4 pulls is generally discouraged to minimize trauma[span_24](end_span)."
+  },
+  {
+    "id": 25,
+    "question": "About analgesia for assisted vaginal delivery",
+    "choices": [
+      "(a) epidural analgesia may increase the need for assisted vaginal birth",
+      "(b) administering epidural analgesia in the latent phase of labour increases the need compared to the active phase of labour",
+      "(c) Pudendal block cannot be used",
+      "(d) Local anesthesia is preferred"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epidural analgesia is known to increase the rate of instrumental vaginal delivery due to reduced maternal pushing effort[span_25](end_span)."
+  },
+  {
+    "id": 26,
+    "question": "This is not applicable to correct application of forceps.",
+    "choices": [
+      "(a) the sagittal suture should remain equidistant between the forceps branches,",
+      "(b) the posterior fontanelle should lie approximately 1 finger breadth above the shanks.",
+      "(c) The tips of the blades must rest over the fetal cheeks,",
+      "(d) the fenestrated blades should allow 2 fingers between the heel of the blade and the fetal head."
+    ],
+    "answerIndex": 3,
+    "explanation": "Correct forceps application should not allow significant space (like 2 fingers) between the heel of the blade and the fetal head; it should be closely applied[span_26](end_span)."
+  },
+  {
+    "id": 27,
+    "question": "Contraindications to vacuum delivery",
+    "choices": [
+      "(a) Mother who had fetal blood sampling procedure",
+      "(b) application of a fetal scalp electrode.",
+      "(c) Von wilbrand disease",
+      "(d) HBsAg +ve mother"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fetal bleeding disorders (like Von Willebrand disease) are absolute contraindications for vacuum delivery due to risk of subgaleal hemorrhage[span_27](end_span)."
+  },
+  {
+    "id": 28,
+    "question": "Which of these about macrosomia is false?",
+    "choices": [
+      "A. Definitive diagnosis of macrosomia can be made before birth.",
+      "B. Fetal weight of 4000g",
+      "C. Fetal weight of 4500g",
+      "D. Suspected when estimated fetal weight is >95th percentile at or beyond 36 gestational weeks"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrosomia is a birth weight definition and can only be definitively diagnosed post-delivery; antenatal assessments are estimations[span_28](end_span)."
+  },
+  {
+    "id": 29,
+    "question": "About fetal macrosomia",
+    "choices": [
+      "A. NICU admissions",
+      "B. Brachial plexus injuries",
+      "C. Congenital anomalies",
+      "D. Not a risk factor for metabolic syndrome"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrosomia is indeed a risk factor for metabolic syndrome later in life for the offspring[span_29](end_span)."
+  },
+  {
+    "id": 30,
+    "question": "Neonatal complications of fetal macrosomia",
+    "choices": [
+      "A. Hypocalcaemia",
+      "B. Hypoglycaemia",
+      "C. Hypercalcaemia",
+      "D. Polycythaemia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Neonatal hypoglycemia and polycythemia are common; hypercalcemia is not typically a complication of macrosomia[span_30](end_span)."
+  },
+  {
+    "id": 31,
+    "question": "All of these are extrinsic factors responsible for fetal macrosomia except?",
+    "choices": [
+      "A. Beckwith-Weidemann syndrome",
+      "B. Obesity",
+      "C. Diabetes Mellitus",
+      "D. Excessive gestational weight gain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beckwith-Wiedemann syndrome is an intrinsic (genetic) cause of macrosomia, unlike maternal factors like obesity or diabetes[span_31](end_span)."
+  },
+  {
+    "id": 32,
+    "question": "Concerning delivery of suspected macrosomia, which of these is true?",
+    "choices": [
+      "A. True birth weight and shoulder dystocia can be accurately predicted antenatally.",
+      "B. Caesarean Section eliminates the risk of birth trauma or brachial plexus injury",
+      "C. ACOG does not recommend routine planned Caesarean unless EFW >4500g (diabetic) or >5000g (non -diabetic)",
+      "D. Induction of labour at 39weeks should not be considered selectively."
+    ],
+    "answerIndex": 2,
+    "explanation": "ACOG guidelines recommend considering CS for EFW >4500g in diabetic mothers and >5000g in non-diabetic mothers[span_32](end_span)."
+  },
+  {
+    "id": 33,
+    "question": "About antenatal diagnosis and risk stratification.",
+    "choices": [
+      "A. Serial growth trends are more informative than a single EFW measurement when macrosomia is suspected.",
+      "B. Ultrasound EFW should be interpreted with caution, especially at higher birthweight due to an error margin of+/- 10-15%",
+      "C. Routine clinical assessment should not be used for screening.",
+      "D. Routine clinical assessment should not be relied upon alone for decision-making due to poor sensitivity and specificity for macrosomia."
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical assessment (Leopold maneuvers) is actually widely used for screening, despite its limitations[span_33](end_span)."
+  },
+  {
+    "id": 34,
+    "question": "Advances in assessment of fetal weight",
+    "choices": [
+      "A. Machine learning models",
+      "B. Fetal MRI",
+      "C. 2D ultrasound",
+      "D. Soft tissue measurement."
+    ],
+    "answerIndex": 2,
+    "explanation": "2D ultrasound is a standard tool, while MRI and Machine Learning represent the newer 'advances' in weight assessment[span_34](end_span)."
+  },
+  {
+    "id": 35,
+    "question": "Risk factors for pre eclampsia include all the following",
+    "choices": [
+      "A. Nulliparity",
+      "B. Previous pre eclampsia",
+      "C. Molar pregnancy",
+      "D. Diabetis insipidus"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetes insipidus is not a known risk factor for preeclampsia, unlike nulliparity, history of PE, and molar pregnancy[span_35](end_span)."
+  },
+  {
+    "id": 36,
+    "question": "Theories of pre eclampsia all is true except",
+    "choices": [
+      "A. Abnormal placentation",
+      "B. Maternal maladaptation to cardiovascular and inflammatory changes in pregnancy.",
+      "C. Dysfunctional third wave trophoblastic invasion of spiral arterioles.",
+      "D. Immunological intolerance"
+    ],
+    "answerIndex": 2,
+    "explanation": "Normal trophoblastic invasion occurs in two waves; a 'third wave' does not exist in the physiological description of spiral arteriole remodeling[span_36](end_span)."
+  },
+  {
+    "id": 37,
+    "question": "Concerning gestational hypertension, one of the following is true",
+    "choices": [
+      "A. Proteinuria is seen or signs of end organ damage are present.",
+      "B. Increased blood pressure is seen before 20wks and blood pressure returns to normal within 12wks post-delivery.",
+      "C. Blood pressure does not come back to normal within 12wks of delivery.",
+      "D. Proteinuria and signs of end organ damage are absent."
+    ],
+    "answerIndex": 3,
+    "explanation": "Gestational hypertension is defined by new-onset hypertension after 20 weeks without proteinuria or end-organ damage[span_37](end_span)[span_38](end_span)."
+  },
+  {
+    "id": 38,
+    "question": "Proteinuria in pre eclampsia all are true, except.",
+    "choices": [
+      "A. Urine sport protein/creatinine ratio of greater than or equal to 0.3mg/mmol",
+      "B. It is the excretion of proteins of greater than or equal to 300mg in 24hrs urine sample.",
+      "C. Urine sport protein/creatinine ratio of greater than or equal to 30mg/mmol",
+      "D. Urine albumin/creatinine ratio greater than 8mg/mmol"
+    ],
+    "answerIndex": 0,
+    "explanation": "The standard Protein/Creatinine ratio threshold is ≥ 0.3 mg/mg (or 30 mg/mmol); [span_39](start_span)'0.3 mg/mmol' is numerically incorrect[span_39](end_span)."
+  },
+  {
+    "id": 39,
+    "question": "About the pathology of Pre eclampsia?",
+    "choices": [
+      "A. Blindness is irreversible.",
+      "B. Blindness can occure secondary to retinal detachment.",
+      "C. Blindness mostly is due to vaso spasm",
+      "D. Hallmark of renal Lesion is glomerular endotheliosis."
+    ],
+    "answerIndex": 0,
+    "explanation": "Blindness in preeclampsia (often due to cortical vasospasm or retinal edema) is typically reversible following delivery[span_40](end_span)."
+  },
+  {
+    "id": 40,
+    "question": "One of the following is not an evidence of severe features of preeclampsia?",
+    "choices": [
+      "A. Epigastric pain",
+      "B. Headache and diziness",
+      "C. Absent tendon reflex",
+      "D. Oliguria"
+    ],
+    "answerIndex": 2,
+    "explanation": "Absent tendon reflexes are a sign of Magnesium toxicity, not a severe feature of preeclampsia itself (which usually presents with hyperreflexia)[span_41](end_span)."
+  },
+  {
+    "id": 41,
+    "question": "Major cause of death in pre eclampsia and eclampsia is?",
+    "choices": [
+      "A. Pulmonary edema",
+      "B. Thrombocytopenia",
+      "C. Pulmonary embolism",
+      "D. intracranial haemorrhage"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intracranial hemorrhage (stroke) is the leading cause of maternal mortality in patients with severe hypertension and preeclampsia[span_42](end_span)."
+  },
+  {
+    "id": 42,
+    "question": "The most important reason for giving antihypertensive in PIH is to decrease the",
+    "choices": [
+      "A. Incidence of IUGR",
+      "B. Incidence of fetal death",
+      "C. Incidence of maternal complication like stroke",
+      "D. Incidence of placenta abruption"
+    ],
+    "answerIndex": 2,
+    "explanation": "The primary goal of antihypertensive therapy in pregnancy is to prevent maternal cerebrovascular accidents[span_43](end_span)."
+  },
+  {
+    "id": 43,
+    "question": "All are prognostic indicators of pregnancy induced Hypertension except?",
+    "choices": [
+      "A. Low platelet",
+      "B. Serum Na",
+      "C. Elevated liver enzyme",
+      "D. Serum Uric acid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Serum Sodium (Na) is not a specific prognostic indicator for PIH severity, whereas platelets, liver enzymes, and uric acid are[span_44](end_span)."
+  },
+  {
+    "id": 44,
+    "question": "A 28yr old booked G2P1+0 (1A) presented at 37wks with increase reflexes, pedal edema and hypertention. All the following can be seen except?",
+    "choices": [
+      "A. Increase Uric acid level",
+      "B. Increased platelets counts",
+      "C. Increase creatinine level",
+      "D. Increase SGOT/SGPT."
+    ],
+    "answerIndex": 1,
+    "explanation": "Preeclampsia typically causes thrombocytopenia (low platelets), not an increased platelet count[span_45](end_span)."
+  },
+  {
+    "id": 45,
+    "question": "Which statement best reflects a recent advance in the management of threatened preterm labour?",
+    "choices": [
+      "A) universal hospitalization improves outcome",
+      "B) routine antibiotics reduce spontaneous preterm birth",
+      "C) all women should receive antenatal steroids before 34 weeks",
+      "D) combining cervical length and quantitative fetal fibronectin improves risk stratification"
+    ],
+    "answerIndex": 3,
+   "explanation": "Combining ultrasound cervical length and quantitative fFN (qfFN) provides a high negative predictive value, helping to avoid unnecessary admissions[span_46](end_span)."
+  },
+  {
+    "id": 46,
+    "question": "An emerging role of artificial intelligence (AI) in antenatal fetal surveillance is:",
+    "choices": [
+      "A) detecting anomalies without imaging",
+      "B) accurate gestational age dating",
+      "C) automated interpretation of CTG patterns",
+      "D) eliminating Doppler studies"
+    ],
+    "answerIndex": 2,
+    "explanation": "AI is increasingly being used to provide objective and standardized interpretations of Cardiotocography (CTG) patterns[span_47](end_span)."
+  },
+  {
+    "id": 47,
+    "question": "Which antenatal surveillance is least useful in predicting stillbirth in growth-restricted fetuses?",
+    "choices": [
+      "A) umbilical artery Doppler velocimetry",
+      "B) middle cerebral artery Doppler",
+      "C) Ductus venosus Doppler",
+      "D) Biophysical profile"
+    ],
+    "answerIndex": 3,
+    "explanation": "MCA Doppler is a marker of fetal compensation (brain sparing) but is less predictive of imminent stillbirth than Umbilical Artery or Ductus Venosus Doppler[span_48](end_span)."
+  },
+  {
+    "id": 48,
+    "question": "Absent end-diastolic flow with (AEDF) in the umbilical artery Doppler is most commonly associated:",
+    "choices": [
+      "A) Late-onset FGR",
+      "B) severe placental insufficiency",
+      "C) Acute placental abruption",
+      "D) severe fetal anaemia"
+    ],
+    "answerIndex": 1,
+    "explanation": "AEDF in the umbilical artery indicates significant placental resistance and insufficiency, common in early-onset FGR[span_49](end_span)."
+  },
+  {
+    "id": 49,
+    "question": "Vaginal progesterone is most effective in reducing preterm birth in all except:",
+    "choices": [
+      "A) singleton pregnancy",
+      "B) short cervix with a previous history of preterm birth",
+      "C) asymptomatic pregnancy",
+      "D) in a setting of PPROM"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vaginal progesterone is not indicated and lacks evidence for efficacy once PPROM has occurred[span_50](end_span)."
+  },
+  {
+    "id": 50,
+    "question": "concerning preterm labour and use of antibiotics:",
+    "choices": [
+      "A) antibiotics appear to be effective in preventing preterm labour",
+      "B) there is no justification for antibiotics",
+      "C) Early treatment with clindamycin might reduce the risk of late preterm birth",
+      "D) prenatal antibiotics is associated with increased rates of cerebral palsy in the offspring"
+    ],
+    "answerIndex": 2,
+    "explanation": "There is some evidence that early treatment of bacterial vaginosis with clindamycin may reduce late preterm birth[span_51](end_span)."
+  },
+  {
+    "id": 51,
+    "question": "Which tocolytic agent is recommended as first-line therapy due to its best neonatal safety profile and fewer maternal side effects?",
+    "choices": [
+      "A) Atosiban",
+      "B) Nifedipine",
+      "C) Indomethacin",
+      "D) Beta-agonists"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nifedipine (a calcium channel blocker) is often first-line due to ease of administration, safety, and effectiveness[span_52](end_span)."
+  },
+  {
+    "id": 52,
+    "question": "Regarding quantitative fetal fibronectin (qfFN) testing, which statement is correct?",
+    "choices": [
+      "A) A value of < 10ng/ml indicates low risk of preterm birth",
+      "B) it predicts preterm birth beyond 34 weeks accurately",
+      "C) it has a high positive predictive value for preterm delivery within 7 days",
+      "D) it is an alternative to TVUS cervical length measurement in prediction of preterm labour"
+    ],
+    "answerIndex": 0,
+    "explanation": "A qfFN < 10 ng/mL has a very high negative predictive value, meaning the risk of delivery within 7-14 days is extremely low[span_53](end_span)."
+  },
+  {
+    "id": 53,
+    "question": "Concerning Preterm delivery, which statement is most correct:",
+    "choices": [
+      "A) Should be delivered by CS for optimal fetal survival",
+      "B) The optimal mode of delivery has been determined by randomized control trials",
+      "C) CS is preferred in breech presentation",
+      "D) It is the commonest cause of neonatal mortality."
+    ],
+    "answerIndex": 3,
+    "explanation": "Complications of preterm birth are the leading cause of death among children under 5 years of age[span_54](end_span)."
+  },
+  {
+    "id": 54,
+    "question": "A negroid woman at 33 weeks gestation presents with painful contractions. Her cervical length is 22 mm and her qfFN is 10ng/ml. What is the most appropriate next step in her management?",
+    "choices": [
+      "A) Admit for tocolysis and steroids",
+      "B) Administer magnesium sulphate for neuroprotection",
+      "C) Reassure and discharge home",
+      "D) perform an emergency cerclage"
+    ],
+    "answerIndex": 2,
+    "explanation": "With a cervical length > 15-20 mm and a very low qfFN, the risk of imminent delivery is low, allowing for discharge and follow-up[span_55](end_span)."
+  },
+  {
+    "id": 55,
+    "question": "One of the following is true concerning diabetes in pregnancy",
+    "choices": [
+      "80% are GDM",
+      "Complicates 3-10% of pregnancies",
+      "30% are pregestational",
+      "Adiponectin is not implicated in the pathophysiology"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gestational Diabetes Mellitus (GDM) complicates approximately 3-10% of all pregnancies, depending on the population[span_56](end_span)."
+  },
+  {
+    "id": 56,
+    "question": "Concerning the diagnosis of GDM, choose the most appropriate",
+    "choices": [
+      "Diagnosis is typically made between 24-28wks gestation",
+      "FBG >7.0mmol/l is diagnostic",
+      "HbA1c <6.5mmol/l is diagnostic",
+      "1hour post prandial >9.0mmol/l id diagnostic"
+    ],
+    "answerIndex": 0,
+    "explanation": "Routine screening for GDM is standard between 24 and 28 weeks of gestation[span_57](end_span)."
+  },
+  {
+    "id": 57,
+    "question": "The Alberti regimen",
+    "choices": [
+      "Ideal for resource limited setting",
+      "One bag infusion containing glucose, potassium and insulin",
+      "Typically infused at 100ml/hr",
+      "15mmol/l of KCL is usually used"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Alberti regimen is a combined glucose-insulin-potassium infusion often used in resource-limited settings for glycemic control[span_58](end_span)."
+  },
+  {
+    "id": 58,
+    "question": "About intrapartum insulin regimen",
+    "choices": [
+      "Target capillary blood glucose is between 4-7mmol/l",
+      "2 hourly blood glucose check once active labour is established",
+      "5% Dextrose in 0.9% saline at 125ml/hr is used to prevent ketosis",
+      "VRIII started if glucose exceeds 7mmol/l"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intrapartum glucose monitoring should be done hourly or 2-hourly to maintain targets and prevent neonatal hypoglycemia[span_59](end_span)."
+  },
+  {
+    "id": 59,
+    "question": "Concerning GDM",
+    "choices": [
+      "Recurrence rate is 30-50% in subsequent pregnancies",
+      "A 2% weight loss between pregnancy will reduce risk of recurrence",
+      "Early screening is discouraged",
+      "COCP is very safe for diabetics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Women with GDM have a significantly high risk (30-50%) of recurrence in future pregnancies[span_60](end_span)."
+  },
+  {
+    "id": 60,
+    "question": "Concerning contraceptives in diabetics",
+    "choices": [
+      "Barrier methods are safe",
+      "BTL can be considered if family size is completed",
+      "LARC(IUD/Implants) are 2nd line",
+      "COCP should be used with caution"
+    ],
+    "answerIndex": 2,
+    "explanation": "Long-Acting Reversible Contraception (LARC) is generally recommended as first-line for its high efficacy and safety in diabetic women[span_61](end_span)."
+  },
+  {
+    "id": 61,
+    "question": "Follow up in patient with GDM, which of the following is wrong",
+    "choices": [
+      "Annual FBG/HbA1c should be done",
+      "Weight loss and physical activity encouraged",
+      "Following delivery, 75g OGTT should be done at 6weeks",
+      "Patients should be continued on OHA following delivery"
+    ],
+    "answerIndex": 3,
+    "explanation": "Most patients with GDM can discontinue oral hypoglycemic agents (OHA) immediately after delivery, as insulin resistance drops sharply[span_62](end_span)."
+  },
+  {
+    "id": 62,
+    "question": "Management of GDM immediate postpartum",
+    "choices": [
+      "Reduce insulin dose to pre pregnancy state",
+      "Breastfeeding is strongly encouraged",
+      "Resistance drops quickly following delivery of the placenta",
+      "Reduce the dose of insulin by 30% in the 3rd trimester"
+    ],
+    "answerIndex": 3,
+    "explanation": "Insulin sensitivity increases dramatically after delivery of the placenta, requiring a significant reduction in insulin dosage[span_63](end_span)."
+  },
+  {
+    "id": 63,
+    "question": "Variable rate intravenous insulin infusion",
+    "choices": [
+      "Target value is 4.0-7.0mmol/l",
+      "Value of 7.0-9.0mmol/l, reduce infusion rate",
+      "If value is between 7-9mmol/l, review infusion rate",
+      "Value >11.0mmol/l, needs medical team view"
+    ],
+    "answerIndex": 1,
+    "explanation": "In a VRIII, if glucose rises above the target (e.g., >7 mmol/L), the insulin infusion rate is typically increased, not reduced[span_64](end_span)."
+  },
+  {
+    "id": 64,
+    "question": "Which is the most appropriate",
+    "choices": [
+      "Sliding scale is the preferred method for intrapartum glycemic control in most centers",
+      "Sliding scale uses only one IV line",
+      "Requirement are 20units of insulin in 50mls of saline",
+      "½ hourly capillary glucose checks"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sliding scale (or VRIII) is widely used for precise intrapartum glucose management[span_65](end_span)."
+  },
+  {
+    "id": 65,
+    "question": "Concerning classification of laparoscopic surgery, which of the following is at basic level",
+    "choices": [
+      "Myomectomy",
+      "Adhesiolysis",
+      "Salpingectomy",
+      "Tubal Sterilization"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tubal sterilization and diagnostic laparoscopy are considered Level 1 (Basic) laparoscopic procedures[span_66](end_span)."
+  },
+  {
+    "id": 66,
+    "question": "Relative contraindication to laparoscopy except",
+    "choices": [
+      "Large abdominal masses",
+      "Abdominal Sepsis",
+      "Severe COPD",
+      "Hemorrhagic Shock"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemorrhagic shock is often considered an absolute (not relative) contraindication due to the physiological stress of pneumoperitoneum[span_67](end_span)."
+  },
+  {
+    "id": 67,
+    "question": "One of the following is a secondary indication for laparoscopy",
+    "choices": [
+      "Tubal sterilization",
+      "Treatment of symptomatic uterine fibroid",
+      "Evaluation/Treatment of endometriosis",
+      "Evaluation of secondary amenorrhea"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laparoscopic treatment of fibroids (myomectomy) is usually a secondary/advanced indication compared to simple sterilization[span_68](end_span)."
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is false",
+    "choices": [
+      "20 port insertion has to be under direct vision",
+      "Primary Trocar held like a dart",
+      "Peritoneal entry confirmed with a hiss sound",
+      "Peritoneal cavity can be inflated with atmospheric air"
+    ],
+    "answerIndex": 1,
+    "explanation": "The primary trocar is usually held with the palm of the hand for controlled force, not like a dart[span_69](end_span)."
+  },
+  {
+    "id": 69,
+    "question": "The following are positioning in pelvic laparoscopy except",
+    "choices": [
+      "Lloyd-Davis position",
+      "Trendelenburg position",
+      "Modified supine",
+      "Modified pronation"
+    ],
+    "answerIndex": 3,
+    "explanation": "Laparoscopy is performed in supine or lithotomy positions; pronation (lying on the stomach) is not used[span_70](end_span)."
+  },
+  {
+    "id": 70,
+    "question": "Entry sites in laparoscopy which is most accurate",
+    "choices": [
+      "Supraumblical is preferred in obese women",
+      "Palmers point is the preferred choice in previous scar",
+      "Hassan technique is usually used",
+      "Optical trocar entry involve the use of blind veress needle entry"
+    ],
+    "answerIndex": 1,
+    "explanation": "Palmer's point (left upper quadrant) is the preferred entry site when periumbilical adhesions are suspected from previous scars[span_71](end_span)."
+  },
+  {
+    "id": 71,
+    "question": "Complications of laparoscopy, which is false",
+    "choices": [
+      "Bowel injury 0.1-0.5%",
+      "Badder injury 0.02-0.5%",
+      "Vascular injury 3-4%",
+      "Adhesions can be a late complication"
+    ],
+    "answerIndex": 2,
+    "explanation": "Major vascular injury is rare in laparoscopy, typically occurring in less than 0.1% of cases, not 3-4%[span_72](end_span)."
+  },
+  {
+    "id": 72,
+    "question": "Early complication of laparoscopy include the following except",
+    "choices": [
+      "Thermal Injury",
+      "Gas Embolism",
+      "Hemorrhage",
+      "Infection"
+    ],
+    "answerIndex": 3,
+    "explanation": "Infection usually manifests days later and is considered a delayed rather than an immediate 'early' complication[span_73](end_span)."
+  },
+  {
+    "id": 73,
+    "question": "Choose the most appropriate",
+    "choices": [
+      "About 50% of complications in laparoscopy are related to entry",
+      "About 70% are related to entry",
+      "About 20% are related to entry",
+      "About 10% are related to enty"
+    ],
+    "answerIndex": 0,
+    "explanation": "Approximately half of all laparoscopic complications (bowel or vascular injury) occur during the initial entry and establishment of pneumoperitoneum[span_74](end_span)."
+  },
+  {
+    "id": 74,
+    "question": "A 38yr old woman with BMI of 40kg/m2 is scheduled for laparoscopic hysterectomy. No previous surgery done, which of the following is the most appropriate entry site to establish pneumoperitoneum",
+    "choices": [
+      "Infraumblical midline at 450 angle",
+      "Supra-umbilical midline at 450 angle",
+      "McBurneys point",
+      "Suprapubic midline entry"
+    ],
+    "answerIndex": 1,
+    "explanation": "In morbidly obese patients, the umbilicus is often displaced downward; supra-umbilical entry or a more vertical angle (90°) is often preferred[span_75](end_span)."
+  },
+  {
+    "id": 75,
+    "question": "Mrs A.J s a 35yr old nulligravida with history of chronic pelvic pain and dysmenorrhea. Her menarche s at 11yrs with cyclical hematuria. Which of the following s incorrect about Mrs A.J",
+    "choices": [
+      "Her condition is estrogen and progesterone dependent",
+      "Her diagnosis may be endometriosis",
+      "Her condition occurs in 20 -50% in infertility patients",
+      "Her condition has Significant impact on quality of life and fertility"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometriosis is primarily estrogen-dependent; progesterone typically acts to suppress the disease[span_76](end_span)."
+  },
+  {
+    "id": 76,
+    "question": "Concerning endometriosis which is incorrect",
+    "choices": [
+      "6 to 7 higher risk in first degree relatives",
+      "Heritable in up to 80%",
+      "It affects approximately 10% of women of reproductive age",
+      "Severe disease occurs in 20-25%"
+    ],
+    "answerIndex": 1,
+    "explanation": "While there is a genetic component, endometriosis is not considered 80% heritable in the general sense[span_77](end_span)."
+  },
+  {
+    "id": 77,
+    "question": "Concerning endometriosis which is incorrect",
+    "choices": [
+      "Most common age at diagnosis is 25-40%",
+      "20-50% of infertile women affected",
+      "It affects approximately 190 million worldwide",
+      "It is associated with chronic pelvic pain in 15-30%"
+    ],
+    "answerIndex": 3,
+    "explanation": "The association with chronic pelvic pain is often much higher than 15-30% in referred populations[span_78](end_span)."
+  },
+  {
+    "id": 78,
+    "question": "Concerning pathophysiology of endometriosis which is incorrect",
+    "choices": [
+      "Retrograde menstruation theory",
+      "Coelomic hyperplasia",
+      "Immune dysfunction and genetic susceptibility",
+      "Angiogenesis and neurogenesis contribute to pain"
+    ],
+    "answerIndex": 1,
+    "explanation": "The theory is 'Coelomic Metaplasia' (transformation of cells), not 'hyperplasia'[span_79](end_span)."
+  },
+  {
+    "id": 79,
+    "question": "Concerning pathophysiology of endometriosis which is incorrect",
+    "choices": [
+      "Retrograde menstruation theory",
+      "Invasion of endometrial tissue into myometrium",
+      "Disruption of the junctional zone",
+      "Inflammation and uterine hyperplasia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometrial tissue invading the myometrium is the definition of adenomyosis, not endometriosis[span_80](end_span)."
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is not a clinical features of endometriosis",
+    "choices": [
+      "Menorrhagia",
+      "Chronic pelvic pain",
+      "Hematuria",
+      "Hemoptysis"
+    ],
+    "answerIndex": 0,
+    "explanation": "While they can co-exist, menorrhagia (heavy periods) is more classically associated with fibroids or adenomyosis than with endometriosis itself[span_81](end_span)."
+  }
+]
