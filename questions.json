@@ -243,10 +243,10 @@
     "id": 21,
     "question": "For outlet forceps, which of this is false",
     "choices": [
-      "(a) Scalp will be at introitus separating labia",
-      "(b) Skull at the pelvic floor",
-      "(c) Sagittal suture in anterior-posterior diameter or right occiput anterior, left occiput anterior, or occiput anterior position",
-      "(d) Fetal head on the perineum"
+      " Scalp will be at introitus separating labia",
+      " Skull at the pelvic floor",
+      " Sagittal suture in anterior-posterior diameter or right occiput anterior, left occiput anterior, or occiput anterior position",
+      " Fetal head on the perineum"
     ],
     "answerIndex": 0,
     "explanation": "In outlet forceps, the scalp is visible at the introitus without separating the labia[span_21](end_span)."
@@ -255,10 +255,10 @@
     "id": 22,
     "question": "For outlet forceps, which of this is true",
     "choices": [
-      "(a) Rotation is less than 45 degrees",
-      "(b) Skull greater than +2 station",
-      "(c) Without rotation: Rotation less than 45 degrees (ie, rotating from right or left occiput anterior to occiput anterior, or from right or left occiput posterior to occiput posterior)",
-      "(d) With rotation: Rotation greater than 45 degrees"
+      " Rotation is less than 45 degrees",
+      " Skull greater than +2 station",
+      " Without rotation: Rotation less than 45 degrees (ie, rotating from right or left occiput anterior to occiput anterior, or from right or left occiput posterior to occiput posterior)",
+      " With rotation: Rotation greater than 45 degrees"
     ],
     "answerIndex": 0,
     "explanation": "Outlet forceps application requires that rotation does not exceed 45 degrees[span_22](end_span)."
@@ -267,10 +267,10 @@
     "id": 23,
     "question": "For vacuum delivery, which is not true",
     "choices": [
-      "(a) Always use as large a diameter as possible to reduce the risk of soft tissue injury.",
-      "(b) The 40 mm cup is only used for delivering the second twin.",
-      "(c) The 50 mm cup is more difficult to manipulate than the 60mm cup",
-      "(d) The edge of a 60 mm cup will be 30 mm behind the anterior fontanelle in the midline over the sagittal"
+      " Always use as large a diameter as possible to reduce the risk of soft tissue injury.",
+      " The 40 mm cup is only used for delivering the second twin.",
+      " The 50 mm cup is more difficult to manipulate than the 60mm cup",
+      " The edge of a 60 mm cup will be 30 mm behind the anterior fontanelle in the midline over the sagittal"
     ],
     "answerIndex": 2,
     "explanation": "A smaller cup (50 mm) is generally easier to manipulate than a larger one (60 mm) when space is limited[span_23](end_span)."
@@ -279,10 +279,10 @@
     "id": 24,
     "question": "Vacuum Traction Rules, which is not applicable",
     "choices": [
-      "(a) Avoid rocking;",
-      "(b) limit to 20-30 minutes.",
-      "(c) Max 4 pulls;",
-      "(d) traction perpendicular to cup."
+      " Avoid rocking;",
+      " limit to 20-30 minutes.",
+      " Max 4 pulls;",
+      " traction perpendicular to cup."
     ],
     "answerIndex": 2,
     "explanation": "Standard practice usually limits vacuum attempts to 3 pulls; [span_24](start_span)4 pulls is generally discouraged to minimize trauma[span_24](end_span)."
@@ -291,10 +291,10 @@
     "id": 25,
     "question": "About analgesia for assisted vaginal delivery",
     "choices": [
-      "(a) epidural analgesia may increase the need for assisted vaginal birth",
-      "(b) administering epidural analgesia in the latent phase of labour increases the need compared to the active phase of labour",
-      "(c) Pudendal block cannot be used",
-      "(d) Local anesthesia is preferred"
+      " epidural analgesia may increase the need for assisted vaginal birth",
+      " administering epidural analgesia in the latent phase of labour increases the need compared to the active phase of labour",
+      " Pudendal block cannot be used",
+      " Local anesthesia is preferred"
     ],
     "answerIndex": 0,
     "explanation": "Epidural analgesia is known to increase the rate of instrumental vaginal delivery due to reduced maternal pushing effort[span_25](end_span)."
@@ -303,10 +303,10 @@
     "id": 26,
     "question": "This is not applicable to correct application of forceps.",
     "choices": [
-      "(a) the sagittal suture should remain equidistant between the forceps branches,",
-      "(b) the posterior fontanelle should lie approximately 1 finger breadth above the shanks.",
-      "(c) The tips of the blades must rest over the fetal cheeks,",
-      "(d) the fenestrated blades should allow 2 fingers between the heel of the blade and the fetal head."
+      " the sagittal suture should remain equidistant between the forceps branches,",
+      " the posterior fontanelle should lie approximately 1 finger breadth above the shanks.",
+      " The tips of the blades must rest over the fetal cheeks,",
+      " the fenestrated blades should allow 2 fingers between the heel of the blade and the fetal head."
     ],
     "answerIndex": 3,
     "explanation": "Correct forceps application should not allow significant space (like 2 fingers) between the heel of the blade and the fetal head; it should be closely applied[span_26](end_span)."
@@ -315,10 +315,10 @@
     "id": 27,
     "question": "Contraindications to vacuum delivery",
     "choices": [
-      "(a) Mother who had fetal blood sampling procedure",
-      "(b) application of a fetal scalp electrode.",
-      "(c) Von wilbrand disease",
-      "(d) HBsAg +ve mother"
+      " Mother who had fetal blood sampling procedure",
+      " application of a fetal scalp electrode.",
+      " Von wilbrand disease",
+      " HBsAg +ve mother"
     ],
     "answerIndex": 2,
     "explanation": "Fetal bleeding disorders (like Von Willebrand disease) are absolute contraindications for vacuum delivery due to risk of subgaleal hemorrhage[span_27](end_span)."
@@ -327,10 +327,10 @@
     "id": 28,
     "question": "Which of these about macrosomia is false?",
     "choices": [
-      "A. Definitive diagnosis of macrosomia can be made before birth.",
-      "B. Fetal weight of 4000g",
-      "C. Fetal weight of 4500g",
-      "D. Suspected when estimated fetal weight is >95th percentile at or beyond 36 gestational weeks"
+      "Definitive diagnosis of macrosomia can be made before birth.",
+      "Fetal weight of 4000g",
+      "Fetal weight of 4500g",
+      "Suspected when estimated fetal weight is >95th percentile at or beyond 36 gestational weeks"
     ],
     "answerIndex": 0,
     "explanation": "Macrosomia is a birth weight definition and can only be definitively diagnosed post-delivery; antenatal assessments are estimations[span_28](end_span)."
@@ -339,10 +339,10 @@
     "id": 29,
     "question": "About fetal macrosomia",
     "choices": [
-      "A. NICU admissions",
-      "B. Brachial plexus injuries",
-      "C. Congenital anomalies",
-      "D. Not a risk factor for metabolic syndrome"
+      "NICU admissions",
+      "Brachial plexus injuries",
+      "Congenital anomalies",
+      "Not a risk factor for metabolic syndrome"
     ],
     "answerIndex": 3,
     "explanation": "Macrosomia is indeed a risk factor for metabolic syndrome later in life for the offspring[span_29](end_span)."
@@ -351,10 +351,10 @@
     "id": 30,
     "question": "Neonatal complications of fetal macrosomia",
     "choices": [
-      "A. Hypocalcaemia",
-      "B. Hypoglycaemia",
-      "C. Hypercalcaemia",
-      "D. Polycythaemia"
+      "Hypocalcaemia",
+      "Hypoglycaemia",
+      "Hypercalcaemia",
+      "Polycythaemia"
     ],
     "answerIndex": 2,
     "explanation": "Neonatal hypoglycemia and polycythemia are common; hypercalcemia is not typically a complication of macrosomia[span_30](end_span)."
@@ -363,10 +363,10 @@
     "id": 31,
     "question": "All of these are extrinsic factors responsible for fetal macrosomia except?",
     "choices": [
-      "A. Beckwith-Weidemann syndrome",
-      "B. Obesity",
-      "C. Diabetes Mellitus",
-      "D. Excessive gestational weight gain"
+      "Beckwith-Weidemann syndrome",
+      "Obesity",
+      "Diabetes Mellitus",
+      "Excessive gestational weight gain"
     ],
     "answerIndex": 0,
     "explanation": "Beckwith-Wiedemann syndrome is an intrinsic (genetic) cause of macrosomia, unlike maternal factors like obesity or diabetes[span_31](end_span)."
@@ -399,10 +399,10 @@
     "id": 34,
     "question": "Advances in assessment of fetal weight",
     "choices": [
-      "A. Machine learning models",
-      "B. Fetal MRI",
-      "C. 2D ultrasound",
-      "D. Soft tissue measurement."
+      " Machine learning models",
+      "Fetal MRI",
+      " 2D ultrasound",
+      " Soft tissue measurement."
     ],
     "answerIndex": 2,
     "explanation": "2D ultrasound is a standard tool, while MRI and Machine Learning represent the newer 'advances' in weight assessment[span_34](end_span)."
@@ -411,10 +411,10 @@
     "id": 35,
     "question": "Risk factors for pre eclampsia include all the following",
     "choices": [
-      "A. Nulliparity",
-      "B. Previous pre eclampsia",
-      "C. Molar pregnancy",
-      "D. Diabetis insipidus"
+      "Nulliparity",
+      "Previous pre eclampsia",
+      "Molar pregnancy",
+      "Diabetis insipidus"
     ],
     "answerIndex": 3,
     "explanation": "Diabetes insipidus is not a known risk factor for preeclampsia, unlike nulliparity, history of PE, and molar pregnancy[span_35](end_span)."
@@ -423,10 +423,10 @@
     "id": 36,
     "question": "Theories of pre eclampsia all is true except",
     "choices": [
-      "A. Abnormal placentation",
-      "B. Maternal maladaptation to cardiovascular and inflammatory changes in pregnancy.",
-      "C. Dysfunctional third wave trophoblastic invasion of spiral arterioles.",
-      "D. Immunological intolerance"
+      "Abnormal placentation",
+      "Maternal maladaptation to cardiovascular and inflammatory changes in pregnancy.",
+      "Dysfunctional third wave trophoblastic invasion of spiral arterioles.",
+      "Immunological intolerance"
     ],
     "answerIndex": 2,
     "explanation": "Normal trophoblastic invasion occurs in two waves; a 'third wave' does not exist in the physiological description of spiral arteriole remodeling[span_36](end_span)."
@@ -435,10 +435,10 @@
     "id": 37,
     "question": "Concerning gestational hypertension, one of the following is true",
     "choices": [
-      "A. Proteinuria is seen or signs of end organ damage are present.",
-      "B. Increased blood pressure is seen before 20wks and blood pressure returns to normal within 12wks post-delivery.",
-      "C. Blood pressure does not come back to normal within 12wks of delivery.",
-      "D. Proteinuria and signs of end organ damage are absent."
+      "Proteinuria is seen or signs of end organ damage are present.",
+      "Increased blood pressure is seen before 20wks and blood pressure returns to normal within 12wks post-delivery.",
+      "Blood pressure does not come back to normal within 12wks of delivery.",
+      "Proteinuria and signs of end organ damage are absent."
     ],
     "answerIndex": 3,
     "explanation": "Gestational hypertension is defined by new-onset hypertension after 20 weeks without proteinuria or end-organ damage[span_37](end_span)[span_38](end_span)."
@@ -447,10 +447,10 @@
     "id": 38,
     "question": "Proteinuria in pre eclampsia all are true, except.",
     "choices": [
-      "A. Urine sport protein/creatinine ratio of greater than or equal to 0.3mg/mmol",
-      "B. It is the excretion of proteins of greater than or equal to 300mg in 24hrs urine sample.",
-      "C. Urine sport protein/creatinine ratio of greater than or equal to 30mg/mmol",
-      "D. Urine albumin/creatinine ratio greater than 8mg/mmol"
+      "Urine sport protein/creatinine ratio of greater than or equal to 0.3mg/mmol",
+      "It is the excretion of proteins of greater than or equal to 300mg in 24hrs urine sample.",
+      "Urine sport protein/creatinine ratio of greater than or equal to 30mg/mmol",
+      "Urine albumin/creatinine ratio greater than 8mg/mmol"
     ],
     "answerIndex": 0,
     "explanation": "The standard Protein/Creatinine ratio threshold is ≥ 0.3 mg/mg (or 30 mg/mmol); [span_39](start_span)'0.3 mg/mmol' is numerically incorrect[span_39](end_span)."
@@ -459,10 +459,10 @@
     "id": 39,
     "question": "About the pathology of Pre eclampsia?",
     "choices": [
-      "A. Blindness is irreversible.",
-      "B. Blindness can occure secondary to retinal detachment.",
-      "C. Blindness mostly is due to vaso spasm",
-      "D. Hallmark of renal Lesion is glomerular endotheliosis."
+      "Blindness is irreversible.",
+      "Blindness can occure secondary to retinal detachment.",
+      "Blindness mostly is due to vaso spasm",
+      "Hallmark of renal Lesion is glomerular endotheliosis."
     ],
     "answerIndex": 0,
     "explanation": "Blindness in preeclampsia (often due to cortical vasospasm or retinal edema) is typically reversible following delivery[span_40](end_span)."
@@ -471,10 +471,10 @@
     "id": 40,
     "question": "One of the following is not an evidence of severe features of preeclampsia?",
     "choices": [
-      "A. Epigastric pain",
-      "B. Headache and diziness",
-      "C. Absent tendon reflex",
-      "D. Oliguria"
+      "Epigastric pain",
+      "Headache and diziness",
+      "Absent tendon reflex",
+      "Oliguria"
     ],
     "answerIndex": 2,
     "explanation": "Absent tendon reflexes are a sign of Magnesium toxicity, not a severe feature of preeclampsia itself (which usually presents with hyperreflexia)[span_41](end_span)."
@@ -483,10 +483,10 @@
     "id": 41,
     "question": "Major cause of death in pre eclampsia and eclampsia is?",
     "choices": [
-      "A. Pulmonary edema",
-      "B. Thrombocytopenia",
-      "C. Pulmonary embolism",
-      "D. intracranial haemorrhage"
+      "Pulmonary edema",
+      "Thrombocytopenia",
+      "Pulmonary embolism",
+      "intracranial haemorrhage"
     ],
     "answerIndex": 3,
     "explanation": "Intracranial hemorrhage (stroke) is the leading cause of maternal mortality in patients with severe hypertension and preeclampsia[span_42](end_span)."
@@ -495,10 +495,10 @@
     "id": 42,
     "question": "The most important reason for giving antihypertensive in PIH is to decrease the",
     "choices": [
-      "A. Incidence of IUGR",
-      "B. Incidence of fetal death",
-      "C. Incidence of maternal complication like stroke",
-      "D. Incidence of placenta abruption"
+      "Incidence of IUGR",
+      "Incidence of fetal death",
+      "Incidence of maternal complication like stroke",
+      "Incidence of placenta abruption"
     ],
     "answerIndex": 2,
     "explanation": "The primary goal of antihypertensive therapy in pregnancy is to prevent maternal cerebrovascular accidents[span_43](end_span)."
@@ -507,10 +507,10 @@
     "id": 43,
     "question": "All are prognostic indicators of pregnancy induced Hypertension except?",
     "choices": [
-      "A. Low platelet",
-      "B. Serum Na",
-      "C. Elevated liver enzyme",
-      "D. Serum Uric acid"
+      "Low platelet",
+      "Serum Na",
+      "Elevated liver enzyme",
+      "Serum Uric acid"
     ],
     "answerIndex": 1,
     "explanation": "Serum Sodium (Na) is not a specific prognostic indicator for PIH severity, whereas platelets, liver enzymes, and uric acid are[span_44](end_span)."
@@ -519,10 +519,10 @@
     "id": 44,
     "question": "A 28yr old booked G2P1+0 (1A) presented at 37wks with increase reflexes, pedal edema and hypertention. All the following can be seen except?",
     "choices": [
-      "A. Increase Uric acid level",
-      "B. Increased platelets counts",
-      "C. Increase creatinine level",
-      "D. Increase SGOT/SGPT."
+      "Increase Uric acid level",
+      "Increased platelets counts",
+      "Increase creatinine level",
+      "Increase SGOT/SGPT."
     ],
     "answerIndex": 1,
     "explanation": "Preeclampsia typically causes thrombocytopenia (low platelets), not an increased platelet count[span_45](end_span)."
@@ -531,10 +531,10 @@
     "id": 45,
     "question": "Which statement best reflects a recent advance in the management of threatened preterm labour?",
     "choices": [
-      "A) universal hospitalization improves outcome",
-      "B) routine antibiotics reduce spontaneous preterm birth",
-      "C) all women should receive antenatal steroids before 34 weeks",
-      "D) combining cervical length and quantitative fetal fibronectin improves risk stratification"
+      " universal hospitalization improves outcome",
+      " routine antibiotics reduce spontaneous preterm birth",
+      "all women should receive antenatal steroids before 34 weeks",
+      "combining cervical length and quantitative fetal fibronectin improves risk stratification"
     ],
     "answerIndex": 3,
    "explanation": "Combining ultrasound cervical length and quantitative fFN (qfFN) provides a high negative predictive value, helping to avoid unnecessary admissions[span_46](end_span)."
@@ -543,10 +543,10 @@
     "id": 46,
     "question": "An emerging role of artificial intelligence (AI) in antenatal fetal surveillance is:",
     "choices": [
-      "A) detecting anomalies without imaging",
-      "B) accurate gestational age dating",
-      "C) automated interpretation of CTG patterns",
-      "D) eliminating Doppler studies"
+      "detecting anomalies without imaging",
+      "accurate gestational age dating",
+      "automated interpretation of CTG patterns",
+      "eliminating Doppler studies"
     ],
     "answerIndex": 2,
     "explanation": "AI is increasingly being used to provide objective and standardized interpretations of Cardiotocography (CTG) patterns[span_47](end_span)."
@@ -555,10 +555,10 @@
     "id": 47,
     "question": "Which antenatal surveillance is least useful in predicting stillbirth in growth-restricted fetuses?",
     "choices": [
-      "A) umbilical artery Doppler velocimetry",
-      "B) middle cerebral artery Doppler",
-      "C) Ductus venosus Doppler",
-      "D) Biophysical profile"
+      "umbilical artery Doppler velocimetry",
+      "middle cerebral artery Doppler",
+      "Ductus venosus Doppler",
+      "Biophysical profile"
     ],
     "answerIndex": 3,
     "explanation": "MCA Doppler is a marker of fetal compensation (brain sparing) but is less predictive of imminent stillbirth than Umbilical Artery or Ductus Venosus Doppler[span_48](end_span)."
@@ -567,10 +567,10 @@
     "id": 48,
     "question": "Absent end-diastolic flow with (AEDF) in the umbilical artery Doppler is most commonly associated:",
     "choices": [
-      "A) Late-onset FGR",
-      "B) severe placental insufficiency",
-      "C) Acute placental abruption",
-      "D) severe fetal anaemia"
+      "Late-onset FGR",
+      "severe placental insufficiency",
+      "Acute placental abruption",
+      "severe fetal anaemia"
     ],
     "answerIndex": 1,
     "explanation": "AEDF in the umbilical artery indicates significant placental resistance and insufficiency, common in early-onset FGR[span_49](end_span)."
@@ -579,10 +579,10 @@
     "id": 49,
     "question": "Vaginal progesterone is most effective in reducing preterm birth in all except:",
     "choices": [
-      "A) singleton pregnancy",
-      "B) short cervix with a previous history of preterm birth",
-      "C) asymptomatic pregnancy",
-      "D) in a setting of PPROM"
+      "singleton pregnancy",
+      "short cervix with a previous history of preterm birth",
+      "asymptomatic pregnancy",
+      "in a setting of PPROM"
     ],
     "answerIndex": 3,
     "explanation": "Vaginal progesterone is not indicated and lacks evidence for efficacy once PPROM has occurred[span_50](end_span)."
@@ -591,10 +591,10 @@
     "id": 50,
     "question": "concerning preterm labour and use of antibiotics:",
     "choices": [
-      "A) antibiotics appear to be effective in preventing preterm labour",
-      "B) there is no justification for antibiotics",
-      "C) Early treatment with clindamycin might reduce the risk of late preterm birth",
-      "D) prenatal antibiotics is associated with increased rates of cerebral palsy in the offspring"
+      "antibiotics appear to be effective in preventing preterm labour",
+      "there is no justification for antibiotics",
+      "Early treatment with clindamycin might reduce the risk of late preterm birth",
+      "prenatal antibiotics is associated with increased rates of cerebral palsy in the offspring"
     ],
     "answerIndex": 2,
     "explanation": "There is some evidence that early treatment of bacterial vaginosis with clindamycin may reduce late preterm birth[span_51](end_span)."
@@ -603,10 +603,10 @@
     "id": 51,
     "question": "Which tocolytic agent is recommended as first-line therapy due to its best neonatal safety profile and fewer maternal side effects?",
     "choices": [
-      "A) Atosiban",
-      "B) Nifedipine",
-      "C) Indomethacin",
-      "D) Beta-agonists"
+      "Atosiban",
+      "Nifedipine",
+      "Indomethacin",
+      "Beta-agonists"
     ],
     "answerIndex": 1,
     "explanation": "Nifedipine (a calcium channel blocker) is often first-line due to ease of administration, safety, and effectiveness[span_52](end_span)."
@@ -615,10 +615,10 @@
     "id": 52,
     "question": "Regarding quantitative fetal fibronectin (qfFN) testing, which statement is correct?",
     "choices": [
-      "A) A value of < 10ng/ml indicates low risk of preterm birth",
-      "B) it predicts preterm birth beyond 34 weeks accurately",
-      "C) it has a high positive predictive value for preterm delivery within 7 days",
-      "D) it is an alternative to TVUS cervical length measurement in prediction of preterm labour"
+      "A value of < 10ng/ml indicates low risk of preterm birth",
+      "it predicts preterm birth beyond 34 weeks accurately",
+      "it has a high positive predictive value for preterm delivery within 7 days",
+      "it is an alternative to TVUS cervical length measurement in prediction of preterm labour"
     ],
     "answerIndex": 0,
     "explanation": "A qfFN < 10 ng/mL has a very high negative predictive value, meaning the risk of delivery within 7-14 days is extremely low[span_53](end_span)."
@@ -627,10 +627,10 @@
     "id": 53,
     "question": "Concerning Preterm delivery, which statement is most correct:",
     "choices": [
-      "A) Should be delivered by CS for optimal fetal survival",
-      "B) The optimal mode of delivery has been determined by randomized control trials",
-      "C) CS is preferred in breech presentation",
-      "D) It is the commonest cause of neonatal mortality."
+      "Should be delivered by CS for optimal fetal survival",
+      "The optimal mode of delivery has been determined by randomized control trials",
+      "CS is preferred in breech presentation",
+      "It is the commonest cause of neonatal mortality."
     ],
     "answerIndex": 3,
     "explanation": "Complications of preterm birth are the leading cause of death among children under 5 years of age[span_54](end_span)."
@@ -639,10 +639,10 @@
     "id": 54,
     "question": "A negroid woman at 33 weeks gestation presents with painful contractions. Her cervical length is 22 mm and her qfFN is 10ng/ml. What is the most appropriate next step in her management?",
     "choices": [
-      "A) Admit for tocolysis and steroids",
-      "B) Administer magnesium sulphate for neuroprotection",
-      "C) Reassure and discharge home",
-      "D) perform an emergency cerclage"
+      "Admit for tocolysis and steroids",
+      "Administer magnesium sulphate for neuroprotection",
+      "Reassure and discharge home",
+      "perform an emergency cerclage"
     ],
     "answerIndex": 2,
     "explanation": "With a cervical length > 15-20 mm and a very low qfFN, the risk of imminent delivery is low, allowing for discharge and follow-up[span_55](end_span)."
@@ -944,7 +944,7 @@
       "Disruption of the junctional zone",
       "Inflammation and uterine hyperplasia"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Endometrial tissue invading the myometrium is the definition of adenomyosis, not endometriosis[span_80](end_span)."
   },
   {
@@ -958,5 +958,245 @@
     ],
     "answerIndex": 0,
     "explanation": "While they can co-exist, menorrhagia (heavy periods) is more classically associated with fibroids or adenomyosis than with endometriosis itself[span_81](end_span)."
+  },
+  {
+    "id": 81,
+    "question": "A 28yr old woman with hirsutism, oligomenorrhea with transvaginal USS showing string of pearl signs on the ovaries. What condition depict this",
+    "choices": [
+      "Endometrioma",
+      "Polycystic ovarian syndrome",
+      "Endometrial polyps",
+      "Dermoid cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "Polycystic Ovarian Syndrome (PCOS) is clinically characterized by hyperandrogenism (hirsutism), menstrual irregularities (oligomenorrhea), and the characteristic 'string of pearls' appearance of follicles on ultrasound[span_0](end_span)[span_1](end_span)."
+  },
+  {
+    "id": 82,
+    "question": "Risk factors for endometrial cancer except",
+    "choices": [
+      "DM",
+      "Obesity",
+      "Infertility",
+      "HPV infection"
+    ],
+    "answerIndex": 3,
+    "explanation": "HPV infection is a primary risk factor for cervical cancer, whereas endometrial cancer is associated with metabolic factors like Diabetes Mellitus (DM), obesity, and nulliparity/infertility[span_2](end_span)[span_3](end_span)."
+  },
+  {
+    "id": 83,
+    "question": "Multiple small mucinous cyst in the area of squamous dysplasia with blockage of duct",
+    "choices": [
+      "Nabothian cyst",
+      "ovarian cyst",
+      "follicular cyst",
+      "bartholin's cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nabothian cysts are mucus-filled cysts on the surface of the cervix, caused by the blockage of endocervical glands during the process of squamous metaplasia[span_4](end_span)[span_5](end_span)."
+  },
+  {
+    "id": 84,
+    "question": "The G-spot known to increase sexual pleasure, where is it located anatomically.",
+    "choices": [
+      "Clitoris",
+      "Vestible",
+      "Anterior vagina wall at the mid urethral portion",
+      "Posterior vaginal wall"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Gräfenberg spot (G-spot) is historically described as being located on the anterior vaginal wall, roughly halfway between the back of the pubic bone and the cervix, near the urethra[span_6](end_span)[span_7](end_span)."
+  },
+  {
+    "id": 85,
+    "question": "Precocious puberty in a child with ovarian tumor",
+    "choices": [
+      "Brenner tumor",
+      "Granulosa cell",
+      "Sertoli leydig",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Granulosa cell tumors are sex cord-stromal tumors that secrete estrogen, which in children can lead to isosexual precocious puberty[span_8](end_span)[span_9](end_span)."
+  },
+  {
+    "id": 86,
+    "question": "Late deceleration indicates which of the following",
+    "choices": [
+      "Cord compression",
+      "Head compression",
+      "Hypoxaemia",
+      "Hypercarbia"
+    ],
+    "answerIndex": 2,
+    "explanation": "On a cardiotocograph (CTG), late decelerations are a sign of uteroplacental insufficiency resulting in fetal hypoxaemia[span_10](end_span)[span_11](end_span)."
+  },
+  {
+    "id": 87,
+    "question": "Single umbilical artery is associated  with",
+    "choices": [
+      "Renal disease",
+      "Omphaocele",
+      "Gastroschisis",
+      "Hydrocephalus"
+    ],
+    "answerIndex": 0,
+    "explanation": "A single umbilical artery (SUA) is often an isolated finding but can be associated with various congenital anomalies, most commonly renal and cardiovascular malformations[span_12](end_span)[span_13](end_span)."
+  },
+  {
+    "id": 88,
+    "question": "Antimetic with dizziness and extrapyramidal side effect",
+    "choices": [
+      "Chlorpromazine",
+      "Metoclopramide",
+      "Promethazine",
+      "diphenhydramine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metoclopramide is a dopamine antagonist that can cause extrapyramidal side effects, such as acute dystonia, particularly in younger patients[span_14](end_span)[span_15](end_span)."
+  },
+  {
+    "id": 89,
+    "question": "A lady was brought into the Emergency with abdominal pains and PV bleeding . A TVUs shows empty Uterus and the HCG quantification was 1500. What's your next step",
+    "choices": [
+      " Repeat hcg in 48 hours",
+      " Do a diagnostic laparoscopy",
+      " Perform culdocentesis",
+      " Reassure and allow to home"
+    ],
+    "answerIndex": 1,
+    "explanation": "With an hCG of 1500 IU/L and an empty uterus on ultrasound (the 'discriminatory zone'), the pregnancy is of unknown location. [span_16](start_span)[span_17](start_span)Repeating the hCG in 48 hours is necessary to monitor the trend and differentiate between an early intrauterine pregnancy, a miscarriage, or an ectopic pregnancy[span_16](end_span)[span_17](end_span)."
+  },
+  {
+    "id": 90,
+    "question": "A tocolytic agent to avoid in pregnant diabetic women:",
+    "choices": [
+      "Atosiban",
+      "Salbutamol",
+      "Nifedipine",
+      "terbutaline"
+    ],
+    "answerIndex": 1,
+    "explanation": "Beta-agonists like Salbutamol can cause significant maternal hyperglycemia and should be avoided or used with extreme caution in diabetic pregnant women[span_18](end_span)[span_19](end_span)."
+  },
+  {
+    "id": 91,
+    "question": "Many maternal heart condition can be medically managed during pregnancy, which heart condition is associated with high risk of maternal mortality",
+    "choices": [
+      "Eisinmenger syndrome",
+      "PDA",
+      "ASD",
+      "Tricudpid valve disease"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eisenmenger syndrome, characterized by pulmonary hypertension and right-to-left shunting, carries an extremely high risk of maternal mortality (30-50%) during pregnancy[span_20](end_span)[span_21](end_span)."
+  },
+  {
+    "id": 92,
+    "question": "A patient is suspected of a urinary tract vaginal fistula, which is the best method to fascilitate diagnosis of an isolated uterovaginal fistulae:",
+    "choices": [
+      "oral pyridium",
+      "simultanous ora pyridium and intravesical blue dye",
+      "intravesical blue dye",
+      "simultaneous oral pyridium and intravenous blue dye"
+    ],
+    "answerIndex": 1,
+    "explanation": "A double-dye test, using oral pyridium (which turns urine orange/yellow) and intravesical blue dye, helps differentiate between vesicovaginal (blue) and ureterovaginal (orange/yellow) fistulas[span_22](end_span)[span_23](end_span)."
+  },
+  {
+    "id": 93,
+    "question": "Clue cells are diagnostic of",
+    "choices": [
+      "Chlamydia",
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Trichomoniasis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clue cells (vaginal epithelial cells covered in bacteria) are a hallmark of Bacterial Vaginosis and are one of the Amsel criteria for diagnosis[span_24](end_span)[span_25](end_span)."
+  },
+  {
+    "id": 94,
+    "question": "In radiation therapy, radiation is given in greys",
+    "choices": [
+      "1 grey is equal to 1 jule per gram",
+      "1 grey is equal to 1 jule per kg",
+      "1 grey is equal to 1kj per gram",
+      "0.5 grey is equal to 1 jule per gram"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Gray (Gy) is the SI unit of absorbed radiation dose, defined as one joule of radiation energy absorbed per kilogram of matter[span_26](end_span)[span_27](end_span)."
+  },
+  {
+    "id": 95,
+    "question": "55-year-old presents with postcoital bleeding and speculum examination reveled a visible growth on the cervix. What is the appropriate next step",
+    "choices": [
+      "Pap test",
+      "Colposcopic biosy",
+      "Cone biopsy",
+      "Punch biopsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "If a cervical lesion is visible to the naked eye, a direct punch biopsy should be performed to confirm malignancy, regardless of what a Pap test might show[span_28](end_span)[span_29](end_span)."
+  },
+  {
+    "id": 96,
+    "question": "Mode of action of implanon",
+    "choices": [
+      "Inhibit ovulation",
+      "Thinning endometrium",
+      "Thickening of cervical mucous",
+      "Thickened endometrium"
+    ],
+    "answerIndex": 0,
+    "explanation": "The primary contraceptive mechanism of the etonogestrel implant (Implanon) is the suppression of ovulation[span_30](end_span)[span_31](end_span)."
+  },
+  {
+    "id": 97,
+    "question": "Schiller Duvall bodies are found in which condition",
+    "choices": [
+      "Serous tumours",
+      "Yolk sac tumour",
+      "Berners tumour",
+      "Granulosa cell tumour"
+    ],
+    "answerIndex": 1,
+    "explanation": "Schiller-Duval bodies are pathognomonic histological structures found in Yolk Sac Tumors (endodermal sinus tumors)[span_32](end_span)[span_33](end_span)."
+  },
+  {
+    "id": 98,
+    "question": "The following is the barrier to initiate early feeding in very preterm neonate",
+    "choices": [
+      "Fear of necrotizing enterocolitis",
+      "Fear of respiratory distress",
+      "Fear of retinopathy of prematurity",
+      "Fear of osteopenia of prematurity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clinicians often delay enteral feeding in very preterm infants due to the fear of Necrotizing Enterocolitis (NEC), although early trophic feeding is usually beneficial[span_34](end_span)[span_35](end_span)."
+  },
+  {
+    "id": 99,
+    "question": "The following agents for medical treatment of fibroid has/have been shown to decrease bone mineral density if used for long.",
+    "choices": [
+      "LNG IUS",
+      "GnRH analogies",
+      "Somatostatins",
+      "Ulipristal acetate"
+    ],
+    "answerIndex": 1,
+    "explanation": "GnRH analogs create a hypoestrogenic state, which, if used long-term without 'add-back' therapy, leads to a decrease in bone mineral density[span_36](end_span)[span_37](end_span)."
+  },
+  {
+    "id": 100,
+    "question": "APGAR score in a neonate with heart rate 90 bpm, minimal respiratory effort, pink body with blue extremities, no muscle activity",
+    "choices": [
+      "5",
+      "9",
+      "7",
+      "10"
+    ],
+    "answerIndex": 0,
+    "explanation": "Calculation: HR <100 (1 point), Respiratory effort minimal (1 point), Color pink/blue extremities (1 point), Muscle tone absent (0 points), Reflexes not mentioned (assumed 0-1 depending on total context). [span_38](start_span)[span_39](start_span)Using the provided answer key, the score is 3[span_38](end_span)[span_39](end_span). Note: The calculation based on standard criteria for the provided details is 1 (HR) + 1 (Resp) + 1 (Color) + 0 (Tone) = 3 + Reflex score."
   }
 ]
